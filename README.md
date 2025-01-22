@@ -28,7 +28,7 @@ The workspace contains the following folders:
 
 ### Database Setup
 
-1. Create a MySQL database named `students_db`.
+1. Create a MySQL database named `student`.
 2. Create a table named `students` using the following SQL query:
 
 ```sql
