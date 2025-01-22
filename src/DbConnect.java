@@ -7,7 +7,7 @@ public class DbConnect {
     public static Connection connect() throws SQLException {
         String url = "jdbc:mysql://localhost:3306/student";
         String username = "root";
-        String password = "kanishk@55055";
+        String password = "your password";
 
         Connection conn = null;
 
